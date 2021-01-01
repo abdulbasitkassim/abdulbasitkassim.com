@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bio
+title:  Bio
 permalink: /Bio/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Bio, Archive]
