@@ -1,13 +1,13 @@
 # Icons on the footer
-rss: true
+rss: false
 email_address: "abdulbasit.kassim@rice.edu"   # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
-facebook: ""
+facebook: "scholar.akassi"
 flickr:
 gitlab:
-github: "sylhare"
+github: 
 instagram:
 keybase:
 linkedin:         # Full URL

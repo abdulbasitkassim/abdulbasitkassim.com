@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-permalink: /teaching/
+title: Pedagogy
+permalink: /pedagogy/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Teaching, Publication]
 ---
