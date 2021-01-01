@@ -1,20 +1,21 @@
 # SITE CONFIGURATION
-baseurl: "/abdulbasitkassim.com/"
-url: "https://abdulbasitkassim.github.io/"
+baseurl: "/abdulbasitkassim.com"
+url: "https://abdulbasitkassim.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Personal Website                                    # site's title
-description: "Scholar | Historian | Learner"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+title: Abdulbasit Kassim                                    # site's title
+description: "My Personal Website"      # used by search engines
+#avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Abdulbasit Kassim  # Change Blog header text
+header_text: Scholar | Historian | Learner | Educator  # Change Blog header text
 header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
-  Abdulbasit Kassim (c) 2021 
+  Abdulbasit Kassim | Copyright 2021 
+
 # Blog
-excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+excerpt: false                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
