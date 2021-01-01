@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Bio
-permalink: /bio/
+title: About
+permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [Bio, Archive]
+tags: [About, Archive]
 ---
 
 Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
