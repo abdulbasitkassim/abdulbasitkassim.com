@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Bio
-permalink: /Bio/
+title: Bio
+permalink: /bio/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Bio, Archive]
 ---
